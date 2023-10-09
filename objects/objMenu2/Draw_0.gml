@@ -5,14 +5,6 @@
 //draw_circle(debug_pos[0], debug_pos[1], 10, false)
 
 
-if !surface_exists(surfa){
-	surfa = surface_create(1000, 1000)
-} else {
-	surface_set_target(surfa)
-	draw_circle(500, 500, 200, false)
-	surface_reset_target()
-	draw_surface(surfa, 0, 0)
-}
 
 draw_set_valign(fa_bottom)
 draw_set_halign(fa_middle)
@@ -67,7 +59,7 @@ for(var i = 0; i < txt_length; i++){
 
 draw_set_valign(fa_top)
 draw_set_halign(fa_left)
-
+/*
 draw_text(20,20,array_length(boss_fx_poss))
 draw_text(20,40, string_length(txt_boss))
 draw_text(20,60,"vel multiplier: " + string(real_dtime))

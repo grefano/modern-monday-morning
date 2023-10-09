@@ -35,5 +35,9 @@ control_draw_volume(global.boss_info[info_index.snd])
 draw_text(20,80,string(selected_seta))
 draw_text(20,100," yadd smooth cam: " + string(yadd_smooth_cam) + " beat y cam: " + string(beat_y_cam))
 
+for(var i = 0; i < ds_list_size(selected_setas); i++){
+	draw_text(mouse_x, mouse_y+10+i*20, string(selected_setas[| i]))
+}
+
 draw_text(20,140,"key: " + string(beat_y_cam * 15))
 //path_add_point()

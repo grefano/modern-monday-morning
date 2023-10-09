@@ -8,7 +8,7 @@ chair_sel = clamp(chair_sel, 0, array_length(global.bosses_info)-1)
 global.boss_info = global.bosses_info[chair_sel]
 if sel_add != 0 {
 	audio_play_sound(sndChangeOption, 15, 0, 2)
-	show_message(global.boss_info)
+	//show_message(global.boss_info)
 }
 if mouse_check_button_pressed(mb_right){
 	var bg_layer = layer_get_id("Background");
@@ -52,6 +52,7 @@ if select_going{
 		if !instance_exists(objTransition){
 			var t = instance_create_depth(0, 0, depth, objTransition);
 			t.room_to = global.boss_info[0]
+			write_ini_create(global.boss_info[info_index.name], global.boss_info[info_index.bpm]);
 		}
 		
 		//gerar_setas("final_"+string(global.boss_info[1]), 40, 0)

@@ -4,12 +4,22 @@
 //cam_dim = [camera_get_view_width(view_camera[0]), camera_get_view_height(view_camera[0])]
 cam_dim = [room_width, room_height]
 
+timer_mousedrag_hold = 0;
+
+enum sel_seta_values{
+	frame,
+	seta,
+	p_ou_b
+}
 
 ini_final_chart = get_ini_name(global.boss_info[info_index.name], 0)
 ini_create_chart = get_ini_name(global.boss_info[info_index.name], 1)
 
 selected_seta = [0, 0, 0]; // frame, seta, player ou boss
-
+selected_setas = ds_list_create();
+selecting_setas = false;
+selecting_setas_x1 = noone;
+selecting_setas_y1 = noone;
 
 beats_in_fourth = 4; // quantos beats ficam no meio de uma fourth
 length_song = global.boss_info[info_index.len] // quantas beats tem na musia
@@ -56,7 +66,18 @@ y_to_frame = function(_y){
 	var frame_my = ( i_my+floor(beat_y_cam) ) * 15;
 	return frame_my
 }
-draw_chart_seta = function(_values, _chart_x, _seta_y, _s){
+x_to_seta = function(_x){
+	var i_my = floor((_x-chart_x)/square_width)
+	return i_my
+}
+ds_list_find_array = function(_id, _array){
+	for(var i = 0; i < ds_list_size(_id); i++){
+		if array_equals(_array, _id[| i]) return true
+		//show_message(string([_array, _id[| i]]))
+	}
+}
+
+draw_chart_seta = function(_values, _chart_x, _seta_y, _s, _selected){
 	var seta_size = square_width/sprite_get_width(sprArrow) * .9
 	var color = _values[ini_values.poison] ? c_black : global.arrows_colors[_s]
 			
@@ -65,8 +86,31 @@ draw_chart_seta = function(_values, _chart_x, _seta_y, _s){
 			
 	var h_hold =  max(_values[ini_values.hold_dur], 0) * (square_width/15)
 	draw_line_width_color(xx, _seta_y, xx, _seta_y+h_hold, square_width/5, color, color)
-	draw_sprite_ext(sprArrow, 0, xx, _seta_y, seta_size, seta_size, global.default_arrows_ang[_s], color, 1)
+	draw_sprite_ext(sprArrow, 0, xx, _seta_y, seta_size, seta_size, global.default_arrows_ang[_s], _selected ? c_aqua :  color, 1)
 			
+}
+foreach_write_key_sel_seta = function(_sec, _sufix, _value){
+	if selected_setas[| 0] != undefined{
+		for(var i = 0; i < ds_list_size(selected_setas); i++){
+			var _prefix = get_ini_key_prefix(0, selected_setas[| i][sel_seta_values.frame], selected_setas[| i][sel_seta_values.seta]);
+			ini_write_real(_sec, _prefix+_sufix, _value)
+		}
+	} else {
+		var _prefix = get_ini_key_prefix(0, selected_seta[sel_seta_values.frame], selected_seta[sel_seta_values.seta]);
+		ini_write_real(_sec, _prefix+_sufix, _value)
+	}
+}
+//show_debug_message(selected_setas[| 0])
+foreach_delete_key_sel_seta = function(_sec, _sufix){
+	if selected_setas[| 0] != undefined{
+		for(var i = 0; i < ds_list_size(selected_setas); i++){
+			var _prefix = get_ini_key_prefix(0, selected_setas[| i][sel_seta_values.frame], selected_setas[| i][sel_seta_values.seta]);
+			ini_key_delete(_sec, _prefix+_sufix)
+		}
+	} else {
+		var _prefix = get_ini_key_prefix(0, selected_seta[sel_seta_values.frame], selected_seta[sel_seta_values.seta]);
+		ini_key_delete(_sec, _prefix+_sufix)
+	}
 }
 draw_chart = function()
 {
@@ -109,11 +153,16 @@ draw_chart = function()
 		for(var s = 0; s < 4; s++){
 			var player_values = get_ini_values(0, key_i, s);
 			if player_values[ini_values.arrow] != noone{
-				draw_chart_seta(player_values, chart_x, seta_y, s)
+				var _selected = ds_list_find_array(selected_setas, [i*15,s,0]) or array_equals([i*15, s, 0], selected_seta)
+				
+				//show_message(string([[i*15,s,0],selected_seta, _selected]))
+				draw_text(chart_x, seta_y, ds_list_find_index(selected_setas, [i*15,s,0]))
+				draw_chart_seta(player_values, chart_x, seta_y, s, _selected)
 			}
 			var boss_values = get_ini_values(1, key_i, s);
 			if boss_values[ini_values.arrow] != noone{
-				draw_chart_seta(boss_values, chart_x_boss, seta_y, s)
+				//var _selected = ds_list_find_index(selected_setas, [i*15,s,1]) != undefined or selected_seta == [i*15, s, 1]
+				draw_chart_seta(boss_values, chart_x_boss, seta_y, s, false)
 			}
 			
 		}
@@ -136,13 +185,17 @@ draw_chart = function()
 		var line_boss_x = chart_x_boss+i*square_width;
 		draw_line(line_boss_x, chart_y, line_boss_x, chart_y+chart_h);
 	}
+	if selecting_setas{
+		draw_rectangle(selecting_setas_x1, selecting_setas_y1, mouse_x, mouse_y, true)
+	}
 }
 control_chart = function()
 {
 	yadd_smooth_cam = -frac(beat_y_cam)*square_width;
 	
-	var k_left_p, k_right_p, k_left_h;
+	var k_left_p, k_right_p, k_left_h, k_left_r;
 	k_left_p = mouse_check_button_pressed(mb_left)
+	k_left_r = mouse_check_button_released(mb_left)
 	k_right_p = mouse_check_button_pressed(mb_right)
 	k_left_h = mouse_check_button(mb_left)
 	
@@ -187,19 +240,89 @@ control_chart = function()
 	}
 	var mouse_frame = y_to_frame(mouse_y);
 	var dur = mouse_frame - selected_seta[0]
-	if k_left_h{
-		var prefix = "";
-		if point_in_rectangle(mouse_x, mouse_y, chart_x, chart_y, chart_x+chart_w, chart_y+chart_h){
-			prefix = get_ini_key_prefix(0, selected_seta[0], selected_seta[1])
-		} else if point_in_rectangle(mouse_x, mouse_y, chart_x_boss, chart_y, chart_x_boss+chart_w, chart_y+chart_h){
-			prefix = get_ini_key_prefix(1, selected_seta[0], selected_seta[1])
+	
+	if k_left_h && keyboard_check(vk_shift){
+		timer_mousedrag_hold++;
+		if timer_mousedrag_hold > 3{
+			if !selecting_setas{
+				// primeiro click
+				selected_setas = ds_list_destroy(selected_setas)
+				selected_setas = ds_list_create()
+				selecting_setas_x1 = mouse_x
+				selecting_setas_y1 = mouse_y
+				selecting_setas = true;
+			}
+			
+	
 		}
-		if prefix != ""{
-			ini_open(ini_final_chart)
-			ini_write_real("mec_hold", prefix+"_dur", dur)
-			ini_close()
-		}
+	} else {
+		timer_mousedrag_hold = 0;	
+	}
+
+	if k_left_r{
+		if selecting_setas{
+			
 		
+			var qtdw = ceil(abs(selecting_setas_x1-mouse_x)/square_width)
+			var qtdh = ceil(abs(selecting_setas_y1-mouse_y)/square_width)
+			
+			var i1 = selecting_setas_x1 < mouse_x ? selecting_setas_x1 : mouse_x
+			i1 = x_to_seta(i1)
+			var i2 = selecting_setas_x1 > mouse_x ? selecting_setas_x1 : mouse_x
+			i2 = x_to_seta(i2)
+			var l1 = selecting_setas_y1 < mouse_y ? selecting_setas_y1 : mouse_y
+			l1 = y_to_frame(l1)
+			var l2 = selecting_setas_y1 > mouse_y ? selecting_setas_y1 : mouse_y
+			l2 = y_to_frame(l2)
+			//show_message(string([i1, i2, l1, l2]))
+			
+			
+			for(var i = 0; i < qtdw; i++){
+				for(var l = 0; l < qtdh; l++){
+					ini_open(ini_final_chart)
+					var temseta = ini_read_real("setas", get_ini_key_prefix(0, l1+l*15, i1+i), noone) != noone
+					
+					ini_close()
+					if temseta{
+						ds_list_add(selected_setas, [l1+l*15, i1+i, 0])
+
+					}
+				}
+
+			}
+			
+			selecting_setas_x1 = noone
+			selecting_setas_y1 = noone
+			show_message("ayo")
+		} else {
+		
+			var sel_seta = x_to_seta(mouse_x)
+			var sel_frame = y_to_frame(mouse_y)
+			ds_list_add(selected_setas, [sel_frame, sel_seta, 0])
+		}
+		selecting_setas = false;
+	}
+	
+
+
+	
+	
+	if k_left_h{
+			
+		// se não ta segurando shift, seleciona só uma seta e arrasta pra definir hold dela
+		if !selecting_setas{
+			var prefix = "";
+			if point_in_rectangle(mouse_x, mouse_y, chart_x, chart_y, chart_x+chart_w, chart_y+chart_h){
+				prefix = get_ini_key_prefix(0, selected_seta[0], selected_seta[1])
+			} else if point_in_rectangle(mouse_x, mouse_y, chart_x_boss, chart_y, chart_x_boss+chart_w, chart_y+chart_h){
+				prefix = get_ini_key_prefix(1, selected_seta[0], selected_seta[1])
+			}
+			if prefix != ""{
+				ini_open(ini_final_chart)
+				ini_write_real("mec_hold", prefix+"_dur", dur)
+				ini_close()
+			}
+		}
 		//if point_in_rectangle(mouse_x, mouse_y, chart_x, chart_y, chart_x+chart_w, chart_y+chart_h){
 		//	ini_open(get_ini_name(global.boss_info[info_index.name], 0))
 		//	var prefix = get_ini_key_prefix(0, selected_seta[0], selected_seta[1])
@@ -410,9 +533,9 @@ tab_portal = function(){
 	
 	ini_open(ini_final_chart)
 	
-	control_value_tab(x_right-tab_w, y_top+sepy_top,					"mec_portal", ini_prefix+"_arrow",	0, 3,		tab_w, 20, "arrow:" )
-	control_value_tab(x_right-tab_w, y_top+sepy_top+sepy_values,		"mec_portal", ini_prefix+"_offset", 0, noone,	tab_w, 20, "offset:", 15)
-	control_value_tab(x_right-tab_w, y_top+sepy_top+sepy_values*2,		"mec_portal", ini_prefix+"_delay", noone, noone,tab_w, 20, "delay:" , 5)
+	control_value_tab(x_right-tab_w, y_top+sepy_top,					"mec_portal", "_arrow",	0, 3,		tab_w, 20, "arrow:" )
+	control_value_tab(x_right-tab_w, y_top+sepy_top+sepy_values,		"mec_portal", "_offset", 0, noone,	tab_w, 20, "offset:", 15)
+	control_value_tab(x_right-tab_w, y_top+sepy_top+sepy_values*2,		"mec_portal", "_delay", noone, noone,tab_w, 20, "delay:" , 5)
 	
 	ini_close()
 }

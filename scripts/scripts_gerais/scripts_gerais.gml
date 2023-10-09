@@ -178,6 +178,8 @@ function control_value_tab(_xleft, _ytop, _sec, _key, _min, _max, _segw, _sepb, 
 		// tipo de valor é bool
 		draw_set_halign(fa_middle)
 		
+		
+		
 		var bool_x = _xleft + _sepb + name_w + 2*sep + tri_w + value_w/2
 		draw_rectangle(bool_x-30, _ytop, bool_x+30, _ytop+name_h, true);
 		draw_text_transformed(bool_x, _ytop, value ? "real" : "fake", tab_values_size, tab_values_size, 0)
@@ -185,9 +187,9 @@ function control_value_tab(_xleft, _ytop, _sec, _key, _min, _max, _segw, _sepb, 
 		if mouse_check_button_pressed(mb_left){
 			if point_in_rectangle(mouse_x, mouse_y, bool_x-30, _ytop, bool_x+30, _ytop+name_h){
 				if value{
-					ini_key_delete(_sec, _key)
+					foreach_delete_key_sel_seta(_sec, _key)
 				} else {
-					ini_write_real(_sec, _key, 1)
+					foreach_write_key_sel_seta(_sec, _key, 1)
 				}
 			}
 		}

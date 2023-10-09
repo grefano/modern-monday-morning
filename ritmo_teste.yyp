@@ -27,6 +27,7 @@
     {"id":{"name":"objControl","path":"objects/objControl/objControl.yy",},"order":5,},
     {"id":{"name":"objMenu","path":"objects/objMenu/objMenu.yy",},"order":0,},
     {"id":{"name":"objMenu2","path":"objects/objMenu2/objMenu2.yy",},"order":1,},
+    {"id":{"name":"sprMenuBg240","path":"sprites/sprMenuBg240/sprMenuBg240.yy",},"order":5,},
     {"id":{"name":"objMenuChair","path":"objects/objMenuChair/objMenuChair.yy",},"order":2,},
     {"id":{"name":"sprAladimIdle","path":"sprites/sprAladimIdle/sprAladimIdle.yy",},"order":1,},
     {"id":{"name":"objSeta","path":"objects/objSeta/objSeta.yy",},"order":6,},

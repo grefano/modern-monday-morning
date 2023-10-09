@@ -7,7 +7,7 @@
 
 
 
-surfa = surface_create(1000, 1000)
+
 
 var chair_insts = ds_list_create();
 collision_line_list(0, 540, room_width, 540, objMenuChair, true, true, chair_insts, true);
@@ -19,9 +19,9 @@ enum chairs_index{
 	yy
 }
 chairs = [
-			["Joshua", chair_insts[| 0], sprMCJoshua, 382, 482],
-			["Gabriel", chair_insts[| 1], sprMCJoshua, 672, 490],
-			["Diego", chair_insts[| 2], sprMCDiego, 936, 460]
+			["Joshua", chair_insts[| 0], sprMCJoshua, 382, 520],
+			["Gabriel", chair_insts[| 1], sprMCJoshua, 672, 460],
+			["Diego", chair_insts[| 2], sprMCDiego, 936, 440]
 		 ];
 
 chair_sel = 0;
