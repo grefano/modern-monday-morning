@@ -1,0 +1,799 @@
+You are using YYP Maker v1.1.5, released in 14-08-2022
+
+
+
+[01-05-2023 16:18:11] Initialized GameMaker Project: ritmo_teste.yyp
+[01-05-2023 16:18:11] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves
+[01-05-2023 16:18:11] Checking acTransSQ
+[01-05-2023 16:18:11] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves/acTransSQ
+[01-05-2023 16:18:11] Checking acTransition
+[01-05-2023 16:18:11] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves/acTransition
+[01-05-2023 16:18:11] Checking acShowHit
+[01-05-2023 16:18:11] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves/acShowHit
+[01-05-2023 16:18:11] Checking acMenu
+[01-05-2023 16:18:11] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves/acMenu
+[01-05-2023 16:18:11] Checking acArrow
+[01-05-2023 16:18:11] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves/acArrow
+[01-05-2023 16:18:11] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves/acArrow
+[01-05-2023 16:18:11] Checking acArrow.yy
+[01-05-2023 16:18:11] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves/acArrow/acArrow.yy
+[01-05-2023 16:18:12] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves/acArrow/acArrow.yy
+[01-05-2023 16:18:12] Par: "folders/Animation Curves" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves/acArrow/acArrow.yy"
+[01-05-2023 16:18:12] Found AnimCurve: acArrow
+[01-05-2023 16:18:12] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves/acMenu
+[01-05-2023 16:18:12] Checking acMenu.yy
+[01-05-2023 16:18:12] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves/acMenu/acMenu.yy
+[01-05-2023 16:18:12] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves/acMenu/acMenu.yy
+[01-05-2023 16:18:12] Par: "folders/Animation Curves" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves/acMenu/acMenu.yy"
+[01-05-2023 16:18:12] Found AnimCurve: acMenu
+[01-05-2023 16:18:12] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves/acShowHit
+[01-05-2023 16:18:12] Checking acShowHit.yy
+[01-05-2023 16:18:12] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves/acShowHit/acShowHit.yy
+[01-05-2023 16:18:12] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves/acShowHit/acShowHit.yy
+[01-05-2023 16:18:12] Par: "folders/Animation Curves" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves/acShowHit/acShowHit.yy"
+[01-05-2023 16:18:12] Found AnimCurve: acShowHit
+[01-05-2023 16:18:12] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves/acTransition
+[01-05-2023 16:18:12] Checking acTransition.yy
+[01-05-2023 16:18:12] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves/acTransition/acTransition.yy
+[01-05-2023 16:18:12] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves/acTransition/acTransition.yy
+[01-05-2023 16:18:12] Par: "folders/Animation Curves" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves/acTransition/acTransition.yy"
+[01-05-2023 16:18:12] Found AnimCurve: acTransition
+[01-05-2023 16:18:12] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves/acTransSQ
+[01-05-2023 16:18:12] Checking acTransSQ.yy
+[01-05-2023 16:18:12] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves/acTransSQ/acTransSQ.yy
+[01-05-2023 16:18:12] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves/acTransSQ/acTransSQ.yy
+[01-05-2023 16:18:12] Par: "folders/Animation Curves" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/animcurves/acTransSQ/acTransSQ.yy"
+[01-05-2023 16:18:12] Found AnimCurve: acTransSQ
+[01-05-2023 16:18:12] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/extensions
+[01-05-2023 16:18:12] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/fonts
+[01-05-2023 16:18:12] Checking fntScore
+[01-05-2023 16:18:12] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/fonts/fntScore
+[01-05-2023 16:18:12] Checking fntMenuBosses
+[01-05-2023 16:18:12] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/fonts/fntMenuBosses
+[01-05-2023 16:18:12] Checking fntBossRoom
+[01-05-2023 16:18:12] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/fonts/fntBossRoom
+[01-05-2023 16:18:12] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/fonts/fntBossRoom
+[01-05-2023 16:18:12] Checking fntScore.png
+[01-05-2023 16:18:12] Checking fntScore.old.yy
+[01-05-2023 16:18:12] Trash file: fntScore.old.yy, will be moved to ___yyp_maker_trash
+[01-05-2023 16:18:12] Checking fntScore.old.png
+[01-05-2023 16:18:12] Checking fntGui.old.yy
+[01-05-2023 16:18:12] Trash file: fntGui.old.yy, will be moved to ___yyp_maker_trash
+[01-05-2023 16:18:12] Checking fntGui.old.png
+[01-05-2023 16:18:12] Checking fntBossRoom.yy
+[01-05-2023 16:18:12] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/fonts/fntBossRoom/fntBossRoom.yy
+[01-05-2023 16:18:12] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/fonts/fntBossRoom/fntBossRoom.yy
+[01-05-2023 16:18:12] Par: "folders/Fonts" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/fonts/fntBossRoom/fntBossRoom.yy"
+[01-05-2023 16:18:12] Found Font: fntBossRoom
+[01-05-2023 16:18:12] Checking fntBossRoom.png
+[01-05-2023 16:18:12] Checking fntBossRoom.old.yy
+[01-05-2023 16:18:12] Trash file: fntBossRoom.old.yy, will be moved to ___yyp_maker_trash
+[01-05-2023 16:18:12] Checking fntBossRoom.old.png
+[01-05-2023 16:18:12] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/fonts/fntMenuBosses
+[01-05-2023 16:18:12] Checking fntMenuBosses.yy
+[01-05-2023 16:18:12] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/fonts/fntMenuBosses/fntMenuBosses.yy
+[01-05-2023 16:18:12] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/fonts/fntMenuBosses/fntMenuBosses.yy
+[01-05-2023 16:18:12] Par: "folders/Fonts" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/fonts/fntMenuBosses/fntMenuBosses.yy"
+[01-05-2023 16:18:12] Found Font: fntMenuBosses
+[01-05-2023 16:18:12] Checking fntMenuBosses.png
+[01-05-2023 16:18:12] Checking fntMenuBosses.old.yy
+[01-05-2023 16:18:12] Trash file: fntMenuBosses.old.yy, will be moved to ___yyp_maker_trash
+[01-05-2023 16:18:12] Checking fntMenuBosses.old.png
+[01-05-2023 16:18:12] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/fonts/fntScore
+[01-05-2023 16:18:12] Checking fntScore.yy
+[01-05-2023 16:18:12] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/fonts/fntScore/fntScore.yy
+[01-05-2023 16:18:12] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/fonts/fntScore/fntScore.yy
+[01-05-2023 16:18:12] Par: "folders/Fonts" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/fonts/fntScore/fntScore.yy"
+[01-05-2023 16:18:12] Found Font: fntScore
+[01-05-2023 16:18:12] Checking fntScore.png
+[01-05-2023 16:18:12] Checking fntScore.old.yy
+[01-05-2023 16:18:12] Trash file: fntScore.old.yy, will be moved to ___yyp_maker_trash
+[01-05-2023 16:18:12] Checking fntScore.old.png
+[01-05-2023 16:18:12] Checking fntGui.old.yy
+[01-05-2023 16:18:12] Trash file: fntGui.old.yy, will be moved to ___yyp_maker_trash
+[01-05-2023 16:18:12] Checking fntGui.old.png
+[01-05-2023 16:18:12] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/notes
+[01-05-2023 16:18:12] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects
+[01-05-2023 16:18:12] Checking objTransition
+[01-05-2023 16:18:12] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objTransition
+[01-05-2023 16:18:12] Checking objSong
+[01-05-2023 16:18:12] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objSong
+[01-05-2023 16:18:12] Checking objShowHit
+[01-05-2023 16:18:12] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objShowHit
+[01-05-2023 16:18:12] Checking objSeta
+[01-05-2023 16:18:12] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objSeta
+[01-05-2023 16:18:12] Checking objMenuChair
+[01-05-2023 16:18:12] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objMenuChair
+[01-05-2023 16:18:12] Checking objMenu2
+[01-05-2023 16:18:12] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objMenu2
+[01-05-2023 16:18:12] Checking objMenu
+[01-05-2023 16:18:12] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objMenu
+[01-05-2023 16:18:12] Checking objControl
+[01-05-2023 16:18:12] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objControl
+[01-05-2023 16:18:12] Checking objCharting2
+[01-05-2023 16:18:12] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objCharting2
+[01-05-2023 16:18:12] Checking objCharting
+[01-05-2023 16:18:12] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objCharting
+[01-05-2023 16:18:12] Checking objAladim
+[01-05-2023 16:18:12] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objAladim
+[01-05-2023 16:18:12] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objAladim
+[01-05-2023 16:18:12] Checking objAladim.yy
+[01-05-2023 16:18:12] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objAladim/objAladim.yy
+[01-05-2023 16:18:12] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objAladim/objAladim.yy
+[01-05-2023 16:18:12] Par: "folders/Objects" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objAladim/objAladim.yy"
+[01-05-2023 16:18:12] Found Object: objAladim
+[01-05-2023 16:18:12] Checking Create_0.gml
+[01-05-2023 16:18:12] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objCharting
+[01-05-2023 16:18:12] Checking Step_0.gml
+[01-05-2023 16:18:12] Checking objCharting.yy
+[01-05-2023 16:18:12] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objCharting/objCharting.yy
+[01-05-2023 16:18:12] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objCharting/objCharting.yy
+[01-05-2023 16:18:12] Par: "folders/Objects" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objCharting/objCharting.yy"
+[01-05-2023 16:18:12] Found Object: objCharting
+[01-05-2023 16:18:12] Checking Draw_64.gml
+[01-05-2023 16:18:12] Checking Create_0.gml
+[01-05-2023 16:18:12] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objCharting2
+[01-05-2023 16:18:12] Checking Step_0.gml
+[01-05-2023 16:18:12] Checking objCharting2.yy
+[01-05-2023 16:18:12] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objCharting2/objCharting2.yy
+[01-05-2023 16:18:12] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objCharting2/objCharting2.yy
+[01-05-2023 16:18:12] Par: "folders/Objects" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objCharting2/objCharting2.yy"
+[01-05-2023 16:18:12] Found Object: objCharting2
+[01-05-2023 16:18:12] Checking Draw_64.gml
+[01-05-2023 16:18:12] Checking Create_0.gml
+[01-05-2023 16:18:12] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objControl
+[01-05-2023 16:18:12] Checking Step_0.gml
+[01-05-2023 16:18:13] Checking objControl.yy
+[01-05-2023 16:18:13] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objControl/objControl.yy
+[01-05-2023 16:18:13] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objControl/objControl.yy
+[01-05-2023 16:18:13] Par: "folders/Objects" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objControl/objControl.yy"
+[01-05-2023 16:18:13] Found Object: objControl
+[01-05-2023 16:18:13] Checking Draw_64.gml
+[01-05-2023 16:18:13] Checking Create_0.gml
+[01-05-2023 16:18:13] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objMenu
+[01-05-2023 16:18:13] Checking Step_0.gml
+[01-05-2023 16:18:13] Checking objMenu.yy
+[01-05-2023 16:18:13] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objMenu/objMenu.yy
+[01-05-2023 16:18:13] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objMenu/objMenu.yy
+[01-05-2023 16:18:13] Par: "folders/Objects/Menu" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objMenu/objMenu.yy"
+[01-05-2023 16:18:13] Found Object: objMenu
+[01-05-2023 16:18:13] Checking Draw_64.gml
+[01-05-2023 16:18:13] Checking Create_0.gml
+[01-05-2023 16:18:13] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objMenu2
+[01-05-2023 16:18:13] Checking Step_0.gml
+[01-05-2023 16:18:13] Checking Other_4.gml
+[01-05-2023 16:18:13] Checking objMenu2.yy
+[01-05-2023 16:18:13] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objMenu2/objMenu2.yy
+[01-05-2023 16:18:13] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objMenu2/objMenu2.yy
+[01-05-2023 16:18:13] Par: "folders/Objects/Menu" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objMenu2/objMenu2.yy"
+[01-05-2023 16:18:13] Found Object: objMenu2
+[01-05-2023 16:18:13] Checking Draw_0.gml
+[01-05-2023 16:18:13] Checking Create_0.gml
+[01-05-2023 16:18:13] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objMenuChair
+[01-05-2023 16:18:13] Checking objMenuChair.yy
+[01-05-2023 16:18:13] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objMenuChair/objMenuChair.yy
+[01-05-2023 16:18:13] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objMenuChair/objMenuChair.yy
+[01-05-2023 16:18:13] Par: "folders/Objects/Menu" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objMenuChair/objMenuChair.yy"
+[01-05-2023 16:18:13] Found Object: objMenuChair
+[01-05-2023 16:18:13] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objSeta
+[01-05-2023 16:18:13] Checking objSeta.yy
+[01-05-2023 16:18:13] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objSeta/objSeta.yy
+[01-05-2023 16:18:13] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objSeta/objSeta.yy
+[01-05-2023 16:18:13] Par: "folders/Objects" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objSeta/objSeta.yy"
+[01-05-2023 16:18:13] Found Object: objSeta
+[01-05-2023 16:18:13] Checking Draw_0.gml
+[01-05-2023 16:18:13] Checking Create_0.gml
+[01-05-2023 16:18:13] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objShowHit
+[01-05-2023 16:18:13] Checking objShowHit.yy
+[01-05-2023 16:18:13] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objShowHit/objShowHit.yy
+[01-05-2023 16:18:13] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objShowHit/objShowHit.yy
+[01-05-2023 16:18:13] Par: "folders/Objects" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objShowHit/objShowHit.yy"
+[01-05-2023 16:18:13] Found Object: objShowHit
+[01-05-2023 16:18:13] Checking Draw_0.gml
+[01-05-2023 16:18:13] Checking Create_0.gml
+[01-05-2023 16:18:13] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objSong
+[01-05-2023 16:18:13] Checking Step_0.gml
+[01-05-2023 16:18:13] Checking Other_4.gml
+[01-05-2023 16:18:13] Checking objSong.yy
+[01-05-2023 16:18:13] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objSong/objSong.yy
+[01-05-2023 16:18:13] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objSong/objSong.yy
+[01-05-2023 16:18:13] Par: "folders/Objects" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objSong/objSong.yy"
+[01-05-2023 16:18:13] Found Object: objSong
+[01-05-2023 16:18:13] Checking Draw_0.gml
+[01-05-2023 16:18:13] Checking Create_0.gml
+[01-05-2023 16:18:13] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objTransition
+[01-05-2023 16:18:13] Checking Step_0.gml
+[01-05-2023 16:18:13] Checking objTransition.yy
+[01-05-2023 16:18:13] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objTransition/objTransition.yy
+[01-05-2023 16:18:14] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objTransition/objTransition.yy
+[01-05-2023 16:18:14] Par: "folders/Objects" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/objects/objTransition/objTransition.yy"
+[01-05-2023 16:18:14] Found Object: objTransition
+[01-05-2023 16:18:14] Checking Draw_64.gml
+[01-05-2023 16:18:14] Checking Create_0.gml
+[01-05-2023 16:18:14] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options
+[01-05-2023 16:18:14] Checking windows
+[01-05-2023 16:18:14] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/windows
+[01-05-2023 16:18:14] Checking tvos
+[01-05-2023 16:18:14] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/tvos
+[01-05-2023 16:18:14] Checking operagx
+[01-05-2023 16:18:14] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/operagx
+[01-05-2023 16:18:14] Checking main
+[01-05-2023 16:18:14] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/main
+[01-05-2023 16:18:14] Checking mac
+[01-05-2023 16:18:14] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/mac
+[01-05-2023 16:18:14] Checking linux
+[01-05-2023 16:18:14] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/linux
+[01-05-2023 16:18:14] Checking ios
+[01-05-2023 16:18:14] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/ios
+[01-05-2023 16:18:14] Checking android
+[01-05-2023 16:18:14] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/android
+[01-05-2023 16:18:14] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/android
+[01-05-2023 16:18:14] Checking options_android.yy
+[01-05-2023 16:18:14] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/android/options_android.yy
+[01-05-2023 16:18:14] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/android/options_android.yy
+[01-05-2023 16:18:14] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/ios
+[01-05-2023 16:18:14] Checking options_ios.yy
+[01-05-2023 16:18:14] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/ios/options_ios.yy
+[01-05-2023 16:18:14] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/ios/options_ios.yy
+[01-05-2023 16:18:14] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/linux
+[01-05-2023 16:18:14] Checking options_linux.yy
+[01-05-2023 16:18:14] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/linux/options_linux.yy
+[01-05-2023 16:18:14] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/linux/options_linux.yy
+[01-05-2023 16:18:14] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/mac
+[01-05-2023 16:18:14] Checking options_mac.yy
+[01-05-2023 16:18:14] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/mac/options_mac.yy
+[01-05-2023 16:18:14] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/mac/options_mac.yy
+[01-05-2023 16:18:14] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/main
+[01-05-2023 16:18:14] Checking options_main.yy
+[01-05-2023 16:18:14] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/main/options_main.yy
+[01-05-2023 16:18:14] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/main/options_main.yy
+[01-05-2023 16:18:14] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/operagx
+[01-05-2023 16:18:14] Checking options_operagx.yy
+[01-05-2023 16:18:14] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/operagx/options_operagx.yy
+[01-05-2023 16:18:14] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/operagx/options_operagx.yy
+[01-05-2023 16:18:14] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/tvos
+[01-05-2023 16:18:14] Checking options_tvos.yy
+[01-05-2023 16:18:14] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/tvos/options_tvos.yy
+[01-05-2023 16:18:14] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/tvos/options_tvos.yy
+[01-05-2023 16:18:14] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/windows
+[01-05-2023 16:18:14] Checking options_windows.yy
+[01-05-2023 16:18:14] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/windows/options_windows.yy
+[01-05-2023 16:18:14] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/options/windows/options_windows.yy
+[01-05-2023 16:18:14] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/paths
+[01-05-2023 16:18:14] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms
+[01-05-2023 16:18:14] Checking rmMenu
+[01-05-2023 16:18:14] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmMenu
+[01-05-2023 16:18:14] Checking rmJoshua
+[01-05-2023 16:18:14] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmJoshua
+[01-05-2023 16:18:14] Checking rmGabriel
+[01-05-2023 16:18:14] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmGabriel
+[01-05-2023 16:18:14] Checking rmDiego
+[01-05-2023 16:18:14] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmDiego
+[01-05-2023 16:18:14] Checking rmChartTest
+[01-05-2023 16:18:14] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmChartTest
+[01-05-2023 16:18:14] Checking rmCharting
+[01-05-2023 16:18:14] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmCharting
+[01-05-2023 16:18:14] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmCharting
+[01-05-2023 16:18:14] Checking rmCharting.yy
+[01-05-2023 16:18:14] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmCharting/rmCharting.yy
+[01-05-2023 16:18:14] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmCharting/rmCharting.yy
+[01-05-2023 16:18:14] Par: "folders/Rooms" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmCharting/rmCharting.yy"
+[01-05-2023 16:18:14] Found Room: rmCharting
+[01-05-2023 16:18:14] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmChartTest
+[01-05-2023 16:18:14] Checking rmChartTest.yy
+[01-05-2023 16:18:14] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmChartTest/rmChartTest.yy
+[01-05-2023 16:18:14] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmChartTest/rmChartTest.yy
+[01-05-2023 16:18:14] Par: "folders/Rooms" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmChartTest/rmChartTest.yy"
+[01-05-2023 16:18:14] Found Room: rmChartTest
+[01-05-2023 16:18:14] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmDiego
+[01-05-2023 16:18:14] Checking rmDiego.yy
+[01-05-2023 16:18:14] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmDiego/rmDiego.yy
+[01-05-2023 16:18:14] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmDiego/rmDiego.yy
+[01-05-2023 16:18:14] Par: "folders/Rooms" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmDiego/rmDiego.yy"
+[01-05-2023 16:18:14] Found Room: rmDiego
+[01-05-2023 16:18:14] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmGabriel
+[01-05-2023 16:18:14] Checking rmGabriel.yy
+[01-05-2023 16:18:14] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmGabriel/rmGabriel.yy
+[01-05-2023 16:18:14] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmGabriel/rmGabriel.yy
+[01-05-2023 16:18:14] Par: "folders/Rooms" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmGabriel/rmGabriel.yy"
+[01-05-2023 16:18:14] Found Room: rmGabriel
+[01-05-2023 16:18:14] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmJoshua
+[01-05-2023 16:18:14] Checking rmJoshua.yy
+[01-05-2023 16:18:14] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmJoshua/rmJoshua.yy
+[01-05-2023 16:18:14] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmJoshua/rmJoshua.yy
+[01-05-2023 16:18:14] Par: "folders/Rooms" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmJoshua/rmJoshua.yy"
+[01-05-2023 16:18:14] Found Room: rmJoshua
+[01-05-2023 16:18:14] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmMenu
+[01-05-2023 16:18:14] Checking rmMenu.yy
+[01-05-2023 16:18:14] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmMenu/rmMenu.yy
+[01-05-2023 16:18:14] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmMenu/rmMenu.yy
+[01-05-2023 16:18:14] Par: "folders/Rooms" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/rooms/rmMenu/rmMenu.yy"
+[01-05-2023 16:18:14] Found Room: rmMenu
+[01-05-2023 16:18:14] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/scripts
+[01-05-2023 16:18:14] Checking scripts_song
+[01-05-2023 16:18:14] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/scripts/scripts_song
+[01-05-2023 16:18:14] Checking scripts_particles
+[01-05-2023 16:18:14] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/scripts/scripts_particles
+[01-05-2023 16:18:14] Checking scripts_gerais
+[01-05-2023 16:18:14] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/scripts/scripts_gerais
+[01-05-2023 16:18:14] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/scripts/scripts_gerais
+[01-05-2023 16:18:14] Checking scripts_gerais.yy
+[01-05-2023 16:18:14] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/scripts/scripts_gerais/scripts_gerais.yy
+[01-05-2023 16:18:14] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/scripts/scripts_gerais/scripts_gerais.yy
+[01-05-2023 16:18:14] Par: "folders/Scripts" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/scripts/scripts_gerais/scripts_gerais.yy"
+[01-05-2023 16:18:14] Found Script: scripts_gerais
+[01-05-2023 16:18:14] Checking scripts_gerais.gml
+[01-05-2023 16:18:15] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/scripts/scripts_particles
+[01-05-2023 16:18:15] Checking scripts_particles.yy
+[01-05-2023 16:18:15] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/scripts/scripts_particles/scripts_particles.yy
+[01-05-2023 16:18:15] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/scripts/scripts_particles/scripts_particles.yy
+[01-05-2023 16:18:15] Par: "folders/Scripts" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/scripts/scripts_particles/scripts_particles.yy"
+[01-05-2023 16:18:15] Found Script: scripts_particles
+[01-05-2023 16:18:15] Checking scripts_particles.gml
+[01-05-2023 16:18:15] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/scripts/scripts_song
+[01-05-2023 16:18:15] Checking scripts_song.yy
+[01-05-2023 16:18:15] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/scripts/scripts_song/scripts_song.yy
+[01-05-2023 16:18:15] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/scripts/scripts_song/scripts_song.yy
+[01-05-2023 16:18:15] Par: "folders/Scripts" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/scripts/scripts_song/scripts_song.yy"
+[01-05-2023 16:18:15] Found Script: scripts_song
+[01-05-2023 16:18:15] Checking scripts_song.gml
+[01-05-2023 16:18:15] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sequences
+[01-05-2023 16:18:15] Checking sqTransition
+[01-05-2023 16:18:15] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sequences/sqTransition
+[01-05-2023 16:18:15] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sequences/sqTransition
+[01-05-2023 16:18:15] Checking sqTransition.yy
+[01-05-2023 16:18:15] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sequences/sqTransition/sqTransition.yy
+[01-05-2023 16:18:15] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sequences/sqTransition/sqTransition.yy
+[01-05-2023 16:18:15] ROOT found, not added.
+[01-05-2023 16:18:15] Par: "folders" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sequences/sqTransition/sqTransition.yy"
+[01-05-2023 16:18:15] Found Sequence: sqTransition
+[01-05-2023 16:18:15] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/shaders
+[01-05-2023 16:18:15] Checking shdTeste
+[01-05-2023 16:18:15] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/shaders/shdTeste
+[01-05-2023 16:18:15] Checking shdMenuSelText
+[01-05-2023 16:18:15] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/shaders/shdMenuSelText
+[01-05-2023 16:18:15] Checking shdMenuSelChair
+[01-05-2023 16:18:15] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/shaders/shdMenuSelChair
+[01-05-2023 16:18:15] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/shaders/shdMenuSelChair
+[01-05-2023 16:18:15] Checking shdMenuSelChair.yy
+[01-05-2023 16:18:15] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/shaders/shdMenuSelChair/shdMenuSelChair.yy
+[01-05-2023 16:18:15] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/shaders/shdMenuSelChair/shdMenuSelChair.yy
+[01-05-2023 16:18:15] ROOT found, not added.
+[01-05-2023 16:18:15] Par: "folders" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/shaders/shdMenuSelChair/shdMenuSelChair.yy"
+[01-05-2023 16:18:15] Found Shader: shdMenuSelChair
+[01-05-2023 16:18:15] Checking shdMenuSelChair.vsh
+[01-05-2023 16:18:15] Checking shdMenuSelChair.fsh
+[01-05-2023 16:18:15] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/shaders/shdMenuSelText
+[01-05-2023 16:18:15] Checking shdMenuSelText.yy
+[01-05-2023 16:18:15] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/shaders/shdMenuSelText/shdMenuSelText.yy
+[01-05-2023 16:18:15] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/shaders/shdMenuSelText/shdMenuSelText.yy
+[01-05-2023 16:18:15] ROOT found, not added.
+[01-05-2023 16:18:15] Par: "folders" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/shaders/shdMenuSelText/shdMenuSelText.yy"
+[01-05-2023 16:18:15] Found Shader: shdMenuSelText
+[01-05-2023 16:18:15] Checking shdMenuSelText.vsh
+[01-05-2023 16:18:15] Checking shdMenuSelText.fsh
+[01-05-2023 16:18:15] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/shaders/shdTeste
+[01-05-2023 16:18:15] Checking shdTeste.yy
+[01-05-2023 16:18:15] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/shaders/shdTeste/shdTeste.yy
+[01-05-2023 16:18:15] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/shaders/shdTeste/shdTeste.yy
+[01-05-2023 16:18:15] ROOT found, not added.
+[01-05-2023 16:18:15] Par: "folders" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/shaders/shdTeste/shdTeste.yy"
+[01-05-2023 16:18:15] Found Shader: shdTeste
+[01-05-2023 16:18:15] Checking shdTeste.vsh
+[01-05-2023 16:18:15] Checking shdTeste.fsh
+[01-05-2023 16:18:15] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sounds
+[01-05-2023 16:18:15] Checking sndSong1
+[01-05-2023 16:18:15] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sounds/sndSong1
+[01-05-2023 16:18:15] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sounds/sndSong1
+[01-05-2023 16:18:15] Checking sndSong1.yy
+[01-05-2023 16:18:15] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sounds/sndSong1/sndSong1.yy
+[01-05-2023 16:18:15] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sounds/sndSong1/sndSong1.yy
+[01-05-2023 16:18:15] Par: "folders/Sounds" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sounds/sndSong1/sndSong1.yy"
+[01-05-2023 16:18:15] Found Sound: sndSong1
+[01-05-2023 16:18:15] Checking sndSong1.mp3
+[01-05-2023 16:18:15] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites
+[01-05-2023 16:18:15] Checking sprTransition
+[01-05-2023 16:18:15] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprTransition
+[01-05-2023 16:18:15] Checking sprPersos
+[01-05-2023 16:18:15] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprPersos
+[01-05-2023 16:18:15] Checking sprMenuBg312
+[01-05-2023 16:18:15] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg312
+[01-05-2023 16:18:15] Checking sprMenuBg3
+[01-05-2023 16:18:15] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg3
+[01-05-2023 16:18:15] Checking sprMenuBg2
+[01-05-2023 16:18:15] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg2
+[01-05-2023 16:18:15] Checking sprMenuBg
+[01-05-2023 16:18:15] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg
+[01-05-2023 16:18:15] Checking sprMCJoshua
+[01-05-2023 16:18:15] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCJoshua
+[01-05-2023 16:18:15] Checking sprMCGabriel
+[01-05-2023 16:18:15] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCGabriel
+[01-05-2023 16:18:15] Checking sprMCDiego
+[01-05-2023 16:18:15] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCDiego
+[01-05-2023 16:18:15] Checking sprMCbackup
+[01-05-2023 16:18:15] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCbackup
+[01-05-2023 16:18:15] Checking sprJogoLogo
+[01-05-2023 16:18:15] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprJogoLogo
+[01-05-2023 16:18:15] Checking sprDiego
+[01-05-2023 16:18:15] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprDiego
+[01-05-2023 16:18:15] Checking sprBright
+[01-05-2023 16:18:15] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprBright
+[01-05-2023 16:18:15] Checking sprArrowFlare
+[01-05-2023 16:18:15] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrowFlare
+[01-05-2023 16:18:15] Checking sprArrow17
+[01-05-2023 16:18:15] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow17
+[01-05-2023 16:18:15] Checking sprArrow
+[01-05-2023 16:18:15] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow
+[01-05-2023 16:18:15] Checking sprAladimIdle
+[01-05-2023 16:18:15] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladimIdle
+[01-05-2023 16:18:15] Checking sprAladim
+[01-05-2023 16:18:15] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladim
+[01-05-2023 16:18:15] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladim
+[01-05-2023 16:18:15] Checking sprAladim.yy
+[01-05-2023 16:18:16] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladim/sprAladim.yy
+[01-05-2023 16:18:16] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladim/sprAladim.yy
+[01-05-2023 16:18:16] Par: "folders/Sprites" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladim/sprAladim.yy"
+[01-05-2023 16:18:16] Found Sprite: sprAladim
+[01-05-2023 16:18:16] Checking layers
+[01-05-2023 16:18:16] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladim/layers
+[01-05-2023 16:18:16] Checking b64e1d16-e8d7-42ca-985e-c3969214eeef.png
+[01-05-2023 16:18:16] Checking 80dedd51-6416-424f-9ba6-d98e61003f35.png
+[01-05-2023 16:18:16] Checking 35b2b7a2-bc96-458e-ae56-177646e6a0a0.png
+[01-05-2023 16:18:16] Checking 2f65fe5a-3e00-4f10-a0b0-eefd1001e7ff.png
+[01-05-2023 16:18:16] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladim/layers
+[01-05-2023 16:18:16] Checking b64e1d16-e8d7-42ca-985e-c3969214eeef
+[01-05-2023 16:18:16] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladim/layers/b64e1d16-e8d7-42ca-985e-c3969214eeef
+[01-05-2023 16:18:16] Checking 80dedd51-6416-424f-9ba6-d98e61003f35
+[01-05-2023 16:18:16] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladim/layers/80dedd51-6416-424f-9ba6-d98e61003f35
+[01-05-2023 16:18:16] Checking 35b2b7a2-bc96-458e-ae56-177646e6a0a0
+[01-05-2023 16:18:16] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladim/layers/35b2b7a2-bc96-458e-ae56-177646e6a0a0
+[01-05-2023 16:18:16] Checking 2f65fe5a-3e00-4f10-a0b0-eefd1001e7ff
+[01-05-2023 16:18:16] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladim/layers/2f65fe5a-3e00-4f10-a0b0-eefd1001e7ff
+[01-05-2023 16:18:16] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladim/layers/2f65fe5a-3e00-4f10-a0b0-eefd1001e7ff
+[01-05-2023 16:18:16] Checking 9839127b-e13d-4fea-9e3e-42ce4f8438f4.png
+[01-05-2023 16:18:16] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladim/layers/35b2b7a2-bc96-458e-ae56-177646e6a0a0
+[01-05-2023 16:18:16] Checking 9839127b-e13d-4fea-9e3e-42ce4f8438f4.png
+[01-05-2023 16:18:16] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladim/layers/80dedd51-6416-424f-9ba6-d98e61003f35
+[01-05-2023 16:18:16] Checking 9839127b-e13d-4fea-9e3e-42ce4f8438f4.png
+[01-05-2023 16:18:16] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladim/layers/b64e1d16-e8d7-42ca-985e-c3969214eeef
+[01-05-2023 16:18:16] Checking 9839127b-e13d-4fea-9e3e-42ce4f8438f4.png
+[01-05-2023 16:18:16] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladimIdle
+[01-05-2023 16:18:16] Checking sprAladimIdle.yy
+[01-05-2023 16:18:16] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladimIdle/sprAladimIdle.yy
+[01-05-2023 16:18:16] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladimIdle/sprAladimIdle.yy
+[01-05-2023 16:18:16] Par: "folders/Sprites" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladimIdle/sprAladimIdle.yy"
+[01-05-2023 16:18:16] Found Sprite: sprAladimIdle
+[01-05-2023 16:18:16] Checking layers
+[01-05-2023 16:18:16] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladimIdle/layers
+[01-05-2023 16:18:16] Checking 52d7eda0-8786-49c4-bdd7-e52616d319bd.png
+[01-05-2023 16:18:16] Checking 513fa284-8640-4809-8690-873e6088f725.png
+[01-05-2023 16:18:16] Checking 455599a8-ab12-4206-909a-bdaceb9f1baa.png
+[01-05-2023 16:18:16] Checking 22c98191-b168-4879-86a3-d66960e302ce.png
+[01-05-2023 16:18:16] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladimIdle/layers
+[01-05-2023 16:18:16] Checking 52d7eda0-8786-49c4-bdd7-e52616d319bd
+[01-05-2023 16:18:16] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladimIdle/layers/52d7eda0-8786-49c4-bdd7-e52616d319bd
+[01-05-2023 16:18:16] Checking 513fa284-8640-4809-8690-873e6088f725
+[01-05-2023 16:18:16] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladimIdle/layers/513fa284-8640-4809-8690-873e6088f725
+[01-05-2023 16:18:16] Checking 455599a8-ab12-4206-909a-bdaceb9f1baa
+[01-05-2023 16:18:16] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladimIdle/layers/455599a8-ab12-4206-909a-bdaceb9f1baa
+[01-05-2023 16:18:16] Checking 22c98191-b168-4879-86a3-d66960e302ce
+[01-05-2023 16:18:16] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladimIdle/layers/22c98191-b168-4879-86a3-d66960e302ce
+[01-05-2023 16:18:16] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladimIdle/layers/22c98191-b168-4879-86a3-d66960e302ce
+[01-05-2023 16:18:16] Checking 9839127b-e13d-4fea-9e3e-42ce4f8438f4.png
+[01-05-2023 16:18:16] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladimIdle/layers/455599a8-ab12-4206-909a-bdaceb9f1baa
+[01-05-2023 16:18:16] Checking 9839127b-e13d-4fea-9e3e-42ce4f8438f4.png
+[01-05-2023 16:18:16] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladimIdle/layers/513fa284-8640-4809-8690-873e6088f725
+[01-05-2023 16:18:16] Checking 9839127b-e13d-4fea-9e3e-42ce4f8438f4.png
+[01-05-2023 16:18:16] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprAladimIdle/layers/52d7eda0-8786-49c4-bdd7-e52616d319bd
+[01-05-2023 16:18:16] Checking 9839127b-e13d-4fea-9e3e-42ce4f8438f4.png
+[01-05-2023 16:18:16] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow
+[01-05-2023 16:18:16] Checking sprArrow.yy
+[01-05-2023 16:18:16] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow/sprArrow.yy
+[01-05-2023 16:18:16] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow/sprArrow.yy
+[01-05-2023 16:18:16] Par: "folders/Sprites" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow/sprArrow.yy"
+[01-05-2023 16:18:16] Found Sprite: sprArrow
+[01-05-2023 16:18:16] Checking layers
+[01-05-2023 16:18:16] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow/layers
+[01-05-2023 16:18:16] Checking 93dd8126-2ea1-485e-954a-15efc39bb2ec.png
+[01-05-2023 16:18:16] Checking 56cd5065-3f2e-4853-b70c-6d6bd5698462.png
+[01-05-2023 16:18:16] Checking 0638ff64-822b-4db7-9265-1f40fe3c8247.png
+[01-05-2023 16:18:16] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow/layers
+[01-05-2023 16:18:16] Checking 93dd8126-2ea1-485e-954a-15efc39bb2ec
+[01-05-2023 16:18:16] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow/layers/93dd8126-2ea1-485e-954a-15efc39bb2ec
+[01-05-2023 16:18:16] Checking 56cd5065-3f2e-4853-b70c-6d6bd5698462
+[01-05-2023 16:18:16] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow/layers/56cd5065-3f2e-4853-b70c-6d6bd5698462
+[01-05-2023 16:18:16] Checking 0638ff64-822b-4db7-9265-1f40fe3c8247
+[01-05-2023 16:18:16] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow/layers/0638ff64-822b-4db7-9265-1f40fe3c8247
+[01-05-2023 16:18:16] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow/layers/0638ff64-822b-4db7-9265-1f40fe3c8247
+[01-05-2023 16:18:16] Checking 0e6c08d5-8dd7-4b06-88b0-793a298edd9c.png
+[01-05-2023 16:18:16] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow/layers/56cd5065-3f2e-4853-b70c-6d6bd5698462
+[01-05-2023 16:18:16] Checking 0e6c08d5-8dd7-4b06-88b0-793a298edd9c.png
+[01-05-2023 16:18:16] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow/layers/93dd8126-2ea1-485e-954a-15efc39bb2ec
+[01-05-2023 16:18:16] Checking 0e6c08d5-8dd7-4b06-88b0-793a298edd9c.png
+[01-05-2023 16:18:16] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow17
+[01-05-2023 16:18:16] Checking sprArrow17.yy
+[01-05-2023 16:18:16] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow17/sprArrow17.yy
+[01-05-2023 16:18:16] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow17/sprArrow17.yy
+[01-05-2023 16:18:16] Par: "folders/Sprites" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow17/sprArrow17.yy"
+[01-05-2023 16:18:16] Found Sprite: sprArrow17
+[01-05-2023 16:18:16] Checking layers
+[01-05-2023 16:18:16] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow17/layers
+[01-05-2023 16:18:16] Checking 93dd8126-2ea1-485e-954a-15efc39bb2ec.png
+[01-05-2023 16:18:16] Checking 56cd5065-3f2e-4853-b70c-6d6bd5698462.png
+[01-05-2023 16:18:16] Checking 0638ff64-822b-4db7-9265-1f40fe3c8247.png
+[01-05-2023 16:18:16] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow17/layers
+[01-05-2023 16:18:16] Checking 93dd8126-2ea1-485e-954a-15efc39bb2ec
+[01-05-2023 16:18:16] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow17/layers/93dd8126-2ea1-485e-954a-15efc39bb2ec
+[01-05-2023 16:18:16] Checking 56cd5065-3f2e-4853-b70c-6d6bd5698462
+[01-05-2023 16:18:16] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow17/layers/56cd5065-3f2e-4853-b70c-6d6bd5698462
+[01-05-2023 16:18:16] Checking 0638ff64-822b-4db7-9265-1f40fe3c8247
+[01-05-2023 16:18:16] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow17/layers/0638ff64-822b-4db7-9265-1f40fe3c8247
+[01-05-2023 16:18:16] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow17/layers/0638ff64-822b-4db7-9265-1f40fe3c8247
+[01-05-2023 16:18:16] Checking 0e6c08d5-8dd7-4b06-88b0-793a298edd9c.png
+[01-05-2023 16:18:16] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow17/layers/56cd5065-3f2e-4853-b70c-6d6bd5698462
+[01-05-2023 16:18:16] Checking 0e6c08d5-8dd7-4b06-88b0-793a298edd9c.png
+[01-05-2023 16:18:16] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrow17/layers/93dd8126-2ea1-485e-954a-15efc39bb2ec
+[01-05-2023 16:18:16] Checking 0e6c08d5-8dd7-4b06-88b0-793a298edd9c.png
+[01-05-2023 16:18:16] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrowFlare
+[01-05-2023 16:18:16] Checking sprArrowFlare.yy
+[01-05-2023 16:18:17] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrowFlare/sprArrowFlare.yy
+[01-05-2023 16:18:17] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrowFlare/sprArrowFlare.yy
+[01-05-2023 16:18:17] Par: "folders/Sprites" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrowFlare/sprArrowFlare.yy"
+[01-05-2023 16:18:17] Found Sprite: sprArrowFlare
+[01-05-2023 16:18:17] Checking layers
+[01-05-2023 16:18:17] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrowFlare/layers
+[01-05-2023 16:18:17] Checking f096e392-e799-44d2-90ee-c0dd49e2cd90.png
+[01-05-2023 16:18:17] Checking 9dc231bd-83c2-48e0-9e7c-4882ec9de195.png
+[01-05-2023 16:18:17] Checking 4e5ad511-90b3-4a6c-8eb4-f7fd02aec62d.png
+[01-05-2023 16:18:17] Checking 0638ff64-822b-4db7-9265-1f40fe3c8247.png
+[01-05-2023 16:18:17] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrowFlare/layers
+[01-05-2023 16:18:17] Checking f096e392-e799-44d2-90ee-c0dd49e2cd90
+[01-05-2023 16:18:17] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrowFlare/layers/f096e392-e799-44d2-90ee-c0dd49e2cd90
+[01-05-2023 16:18:17] Checking 9dc231bd-83c2-48e0-9e7c-4882ec9de195
+[01-05-2023 16:18:17] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrowFlare/layers/9dc231bd-83c2-48e0-9e7c-4882ec9de195
+[01-05-2023 16:18:17] Checking 4e5ad511-90b3-4a6c-8eb4-f7fd02aec62d
+[01-05-2023 16:18:17] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrowFlare/layers/4e5ad511-90b3-4a6c-8eb4-f7fd02aec62d
+[01-05-2023 16:18:17] Checking 0638ff64-822b-4db7-9265-1f40fe3c8247
+[01-05-2023 16:18:17] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrowFlare/layers/0638ff64-822b-4db7-9265-1f40fe3c8247
+[01-05-2023 16:18:17] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrowFlare/layers/0638ff64-822b-4db7-9265-1f40fe3c8247
+[01-05-2023 16:18:17] Checking 7d6d398e-3c39-42cc-b642-aa9ddb6bb058.png
+[01-05-2023 16:18:17] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrowFlare/layers/4e5ad511-90b3-4a6c-8eb4-f7fd02aec62d
+[01-05-2023 16:18:17] Checking 7d6d398e-3c39-42cc-b642-aa9ddb6bb058.png
+[01-05-2023 16:18:17] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrowFlare/layers/9dc231bd-83c2-48e0-9e7c-4882ec9de195
+[01-05-2023 16:18:17] Checking 7d6d398e-3c39-42cc-b642-aa9ddb6bb058.png
+[01-05-2023 16:18:17] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprArrowFlare/layers/f096e392-e799-44d2-90ee-c0dd49e2cd90
+[01-05-2023 16:18:17] Checking 7d6d398e-3c39-42cc-b642-aa9ddb6bb058.png
+[01-05-2023 16:18:17] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprBright
+[01-05-2023 16:18:17] Checking sprBright.yy
+[01-05-2023 16:18:17] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprBright/sprBright.yy
+[01-05-2023 16:18:17] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprBright/sprBright.yy
+[01-05-2023 16:18:17] Par: "folders/Sprites" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprBright/sprBright.yy"
+[01-05-2023 16:18:17] Found Sprite: sprBright
+[01-05-2023 16:18:17] Checking layers
+[01-05-2023 16:18:17] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprBright/layers
+[01-05-2023 16:18:17] Checking c2295d55-f38a-48a4-90d3-2ff44c67321a.png
+[01-05-2023 16:18:17] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprBright/layers
+[01-05-2023 16:18:17] Checking c2295d55-f38a-48a4-90d3-2ff44c67321a
+[01-05-2023 16:18:17] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprBright/layers/c2295d55-f38a-48a4-90d3-2ff44c67321a
+[01-05-2023 16:18:17] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprBright/layers/c2295d55-f38a-48a4-90d3-2ff44c67321a
+[01-05-2023 16:18:17] Checking 15264730-7db8-4059-874e-c14e9db98d14.png
+[01-05-2023 16:18:17] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprDiego
+[01-05-2023 16:18:17] Checking sprDiego.yy
+[01-05-2023 16:18:17] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprDiego/sprDiego.yy
+[01-05-2023 16:18:17] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprDiego/sprDiego.yy
+[01-05-2023 16:18:17] Par: "folders/Sprites" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprDiego/sprDiego.yy"
+[01-05-2023 16:18:17] Found Sprite: sprDiego
+[01-05-2023 16:18:17] Checking layers
+[01-05-2023 16:18:17] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprDiego/layers
+[01-05-2023 16:18:17] Checking abc56788-6112-4e5d-b349-fd3f9e94bc36.png
+[01-05-2023 16:18:17] Checking 085801b4-8dcb-45c8-904b-8024ea384add.png
+[01-05-2023 16:18:17] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprDiego/layers
+[01-05-2023 16:18:17] Checking abc56788-6112-4e5d-b349-fd3f9e94bc36
+[01-05-2023 16:18:17] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprDiego/layers/abc56788-6112-4e5d-b349-fd3f9e94bc36
+[01-05-2023 16:18:17] Checking 085801b4-8dcb-45c8-904b-8024ea384add
+[01-05-2023 16:18:17] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprDiego/layers/085801b4-8dcb-45c8-904b-8024ea384add
+[01-05-2023 16:18:17] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprDiego/layers/085801b4-8dcb-45c8-904b-8024ea384add
+[01-05-2023 16:18:17] Checking 9839127b-e13d-4fea-9e3e-42ce4f8438f4.png
+[01-05-2023 16:18:17] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprDiego/layers/abc56788-6112-4e5d-b349-fd3f9e94bc36
+[01-05-2023 16:18:17] Checking 9839127b-e13d-4fea-9e3e-42ce4f8438f4.png
+[01-05-2023 16:18:17] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprJogoLogo
+[01-05-2023 16:18:17] Checking sprJogoLogo.yy
+[01-05-2023 16:18:17] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprJogoLogo/sprJogoLogo.yy
+[01-05-2023 16:18:17] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprJogoLogo/sprJogoLogo.yy
+[01-05-2023 16:18:17] Par: "folders/Sprites" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprJogoLogo/sprJogoLogo.yy"
+[01-05-2023 16:18:17] Found Sprite: sprJogoLogo
+[01-05-2023 16:18:17] Checking layers
+[01-05-2023 16:18:17] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprJogoLogo/layers
+[01-05-2023 16:18:17] Checking 211d75f7-6ea4-4a83-8df1-82c281a79f45.png
+[01-05-2023 16:18:17] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprJogoLogo/layers
+[01-05-2023 16:18:17] Checking 211d75f7-6ea4-4a83-8df1-82c281a79f45
+[01-05-2023 16:18:17] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprJogoLogo/layers/211d75f7-6ea4-4a83-8df1-82c281a79f45
+[01-05-2023 16:18:17] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprJogoLogo/layers/211d75f7-6ea4-4a83-8df1-82c281a79f45
+[01-05-2023 16:18:17] Checking eed894b8-0663-4598-9ea3-03fc2e102155.png
+[01-05-2023 16:18:17] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCbackup
+[01-05-2023 16:18:17] Checking sprMCbackup.yy
+[01-05-2023 16:18:17] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCbackup/sprMCbackup.yy
+[01-05-2023 16:18:17] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCbackup/sprMCbackup.yy
+[01-05-2023 16:18:17] Par: "folders/Sprites/cadeiras" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCbackup/sprMCbackup.yy"
+[01-05-2023 16:18:17] Found Sprite: sprMCbackup
+[01-05-2023 16:18:17] Checking layers
+[01-05-2023 16:18:17] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCbackup/layers
+[01-05-2023 16:18:17] Checking 6b6c12d3-4e63-41b9-b53e-7c1e54647907.png
+[01-05-2023 16:18:17] Checking 69a4f412-d6ce-42ba-a71c-2cadba004a23.png
+[01-05-2023 16:18:17] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCbackup/layers
+[01-05-2023 16:18:17] Checking 6b6c12d3-4e63-41b9-b53e-7c1e54647907
+[01-05-2023 16:18:17] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCbackup/layers/6b6c12d3-4e63-41b9-b53e-7c1e54647907
+[01-05-2023 16:18:17] Checking 69a4f412-d6ce-42ba-a71c-2cadba004a23
+[01-05-2023 16:18:17] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCbackup/layers/69a4f412-d6ce-42ba-a71c-2cadba004a23
+[01-05-2023 16:18:17] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCbackup/layers/69a4f412-d6ce-42ba-a71c-2cadba004a23
+[01-05-2023 16:18:17] Checking 0908e5f4-de12-48e4-b9b8-6b39735e7ee6.png
+[01-05-2023 16:18:17] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCbackup/layers/6b6c12d3-4e63-41b9-b53e-7c1e54647907
+[01-05-2023 16:18:17] Checking 0908e5f4-de12-48e4-b9b8-6b39735e7ee6.png
+[01-05-2023 16:18:17] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCDiego
+[01-05-2023 16:18:17] Checking sprMCDiego.yy
+[01-05-2023 16:18:17] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCDiego/sprMCDiego.yy
+[01-05-2023 16:18:17] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCDiego/sprMCDiego.yy
+[01-05-2023 16:18:17] Par: "folders/Sprites/cadeiras" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCDiego/sprMCDiego.yy"
+[01-05-2023 16:18:17] Found Sprite: sprMCDiego
+[01-05-2023 16:18:17] Checking layers
+[01-05-2023 16:18:17] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCDiego/layers
+[01-05-2023 16:18:17] Checking 6b6c12d3-4e63-41b9-b53e-7c1e54647907.png
+[01-05-2023 16:18:17] Checking 69a4f412-d6ce-42ba-a71c-2cadba004a23.png
+[01-05-2023 16:18:17] Checking 27297325-de48-4c38-8ed2-05ec312d50ad.png
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCDiego/layers
+[01-05-2023 16:18:18] Checking 6b6c12d3-4e63-41b9-b53e-7c1e54647907
+[01-05-2023 16:18:18] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCDiego/layers/6b6c12d3-4e63-41b9-b53e-7c1e54647907
+[01-05-2023 16:18:18] Checking 69a4f412-d6ce-42ba-a71c-2cadba004a23
+[01-05-2023 16:18:18] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCDiego/layers/69a4f412-d6ce-42ba-a71c-2cadba004a23
+[01-05-2023 16:18:18] Checking 27297325-de48-4c38-8ed2-05ec312d50ad
+[01-05-2023 16:18:18] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCDiego/layers/27297325-de48-4c38-8ed2-05ec312d50ad
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCDiego/layers/27297325-de48-4c38-8ed2-05ec312d50ad
+[01-05-2023 16:18:18] Checking 0908e5f4-de12-48e4-b9b8-6b39735e7ee6.png
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCDiego/layers/69a4f412-d6ce-42ba-a71c-2cadba004a23
+[01-05-2023 16:18:18] Checking 0908e5f4-de12-48e4-b9b8-6b39735e7ee6.png
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCDiego/layers/6b6c12d3-4e63-41b9-b53e-7c1e54647907
+[01-05-2023 16:18:18] Checking 0908e5f4-de12-48e4-b9b8-6b39735e7ee6.png
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCGabriel
+[01-05-2023 16:18:18] Checking sprMCGabriel.yy
+[01-05-2023 16:18:18] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCGabriel/sprMCGabriel.yy
+[01-05-2023 16:18:18] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCGabriel/sprMCGabriel.yy
+[01-05-2023 16:18:18] Par: "folders/Sprites/cadeiras" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCGabriel/sprMCGabriel.yy"
+[01-05-2023 16:18:18] Found Sprite: sprMCGabriel
+[01-05-2023 16:18:18] Checking layers
+[01-05-2023 16:18:18] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCGabriel/layers
+[01-05-2023 16:18:18] Checking 6b6c12d3-4e63-41b9-b53e-7c1e54647907.png
+[01-05-2023 16:18:18] Checking 69a4f412-d6ce-42ba-a71c-2cadba004a23.png
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCGabriel/layers
+[01-05-2023 16:18:18] Checking 6b6c12d3-4e63-41b9-b53e-7c1e54647907
+[01-05-2023 16:18:18] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCGabriel/layers/6b6c12d3-4e63-41b9-b53e-7c1e54647907
+[01-05-2023 16:18:18] Checking 69a4f412-d6ce-42ba-a71c-2cadba004a23
+[01-05-2023 16:18:18] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCGabriel/layers/69a4f412-d6ce-42ba-a71c-2cadba004a23
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCGabriel/layers/69a4f412-d6ce-42ba-a71c-2cadba004a23
+[01-05-2023 16:18:18] Checking 0908e5f4-de12-48e4-b9b8-6b39735e7ee6.png
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCGabriel/layers/6b6c12d3-4e63-41b9-b53e-7c1e54647907
+[01-05-2023 16:18:18] Checking 0908e5f4-de12-48e4-b9b8-6b39735e7ee6.png
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCJoshua
+[01-05-2023 16:18:18] Checking sprMCJoshua.yy
+[01-05-2023 16:18:18] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCJoshua/sprMCJoshua.yy
+[01-05-2023 16:18:18] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCJoshua/sprMCJoshua.yy
+[01-05-2023 16:18:18] Par: "folders/Sprites/cadeiras" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCJoshua/sprMCJoshua.yy"
+[01-05-2023 16:18:18] Found Sprite: sprMCJoshua
+[01-05-2023 16:18:18] Checking layers
+[01-05-2023 16:18:18] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCJoshua/layers
+[01-05-2023 16:18:18] Checking 6b6c12d3-4e63-41b9-b53e-7c1e54647907.png
+[01-05-2023 16:18:18] Checking 69a4f412-d6ce-42ba-a71c-2cadba004a23.png
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCJoshua/layers
+[01-05-2023 16:18:18] Checking 6b6c12d3-4e63-41b9-b53e-7c1e54647907
+[01-05-2023 16:18:18] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCJoshua/layers/6b6c12d3-4e63-41b9-b53e-7c1e54647907
+[01-05-2023 16:18:18] Checking 69a4f412-d6ce-42ba-a71c-2cadba004a23
+[01-05-2023 16:18:18] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCJoshua/layers/69a4f412-d6ce-42ba-a71c-2cadba004a23
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCJoshua/layers/69a4f412-d6ce-42ba-a71c-2cadba004a23
+[01-05-2023 16:18:18] Checking 0908e5f4-de12-48e4-b9b8-6b39735e7ee6.png
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMCJoshua/layers/6b6c12d3-4e63-41b9-b53e-7c1e54647907
+[01-05-2023 16:18:18] Checking 0908e5f4-de12-48e4-b9b8-6b39735e7ee6.png
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg
+[01-05-2023 16:18:18] Checking sprMenuBg.yy
+[01-05-2023 16:18:18] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg/sprMenuBg.yy
+[01-05-2023 16:18:18] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg/sprMenuBg.yy
+[01-05-2023 16:18:18] Par: "folders/Sprites/bgs" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg/sprMenuBg.yy"
+[01-05-2023 16:18:18] Found Sprite: sprMenuBg
+[01-05-2023 16:18:18] Checking layers
+[01-05-2023 16:18:18] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg/layers
+[01-05-2023 16:18:18] Checking d96b76da-90d8-4723-a249-d89e2cd27533.png
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg/layers
+[01-05-2023 16:18:18] Checking d96b76da-90d8-4723-a249-d89e2cd27533
+[01-05-2023 16:18:18] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg/layers/d96b76da-90d8-4723-a249-d89e2cd27533
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg/layers/d96b76da-90d8-4723-a249-d89e2cd27533
+[01-05-2023 16:18:18] Checking 95912fe8-d008-410e-a5b5-0b454a67ad40.png
+[01-05-2023 16:18:18] Checking 68b0fa2d-501b-4812-999a-8950bc3d0790.png
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg2
+[01-05-2023 16:18:18] Checking sprMenuBg2.yy
+[01-05-2023 16:18:18] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg2/sprMenuBg2.yy
+[01-05-2023 16:18:18] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg2/sprMenuBg2.yy
+[01-05-2023 16:18:18] Par: "folders/Sprites/bgs" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg2/sprMenuBg2.yy"
+[01-05-2023 16:18:18] Found Sprite: sprMenuBg2
+[01-05-2023 16:18:18] Checking layers
+[01-05-2023 16:18:18] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg2/layers
+[01-05-2023 16:18:18] Checking bae864ed-ea67-4eb6-a67e-f1aa609987db.png
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg2/layers
+[01-05-2023 16:18:18] Checking bae864ed-ea67-4eb6-a67e-f1aa609987db
+[01-05-2023 16:18:18] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg2/layers/bae864ed-ea67-4eb6-a67e-f1aa609987db
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg2/layers/bae864ed-ea67-4eb6-a67e-f1aa609987db
+[01-05-2023 16:18:18] Checking 95912fe8-d008-410e-a5b5-0b454a67ad40.png
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg3
+[01-05-2023 16:18:18] Checking sprMenuBg3.yy
+[01-05-2023 16:18:18] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg3/sprMenuBg3.yy
+[01-05-2023 16:18:18] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg3/sprMenuBg3.yy
+[01-05-2023 16:18:18] Par: "folders/Sprites/bgs" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg3/sprMenuBg3.yy"
+[01-05-2023 16:18:18] Found Sprite: sprMenuBg3
+[01-05-2023 16:18:18] Checking layers
+[01-05-2023 16:18:18] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg3/layers
+[01-05-2023 16:18:18] Checking 3940b048-2c0b-49ec-8cdd-504e14218fdb.png
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg3/layers
+[01-05-2023 16:18:18] Checking 3940b048-2c0b-49ec-8cdd-504e14218fdb
+[01-05-2023 16:18:18] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg3/layers/3940b048-2c0b-49ec-8cdd-504e14218fdb
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg3/layers/3940b048-2c0b-49ec-8cdd-504e14218fdb
+[01-05-2023 16:18:18] Checking 95912fe8-d008-410e-a5b5-0b454a67ad40.png
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg312
+[01-05-2023 16:18:18] Checking sprMenuBg312.yy
+[01-05-2023 16:18:18] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg312/sprMenuBg312.yy
+[01-05-2023 16:18:18] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg312/sprMenuBg312.yy
+[01-05-2023 16:18:18] Par: "folders/Sprites/bgs" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg312/sprMenuBg312.yy"
+[01-05-2023 16:18:18] Found Sprite: sprMenuBg312
+[01-05-2023 16:18:18] Checking layers
+[01-05-2023 16:18:18] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg312/layers
+[01-05-2023 16:18:18] Checking bae864ed-ea67-4eb6-a67e-f1aa609987db.png
+[01-05-2023 16:18:18] Checking 3940b048-2c0b-49ec-8cdd-504e14218fdb.png
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg312/layers
+[01-05-2023 16:18:18] Checking bae864ed-ea67-4eb6-a67e-f1aa609987db
+[01-05-2023 16:18:18] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg312/layers/bae864ed-ea67-4eb6-a67e-f1aa609987db
+[01-05-2023 16:18:18] Checking 3940b048-2c0b-49ec-8cdd-504e14218fdb
+[01-05-2023 16:18:18] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg312/layers/3940b048-2c0b-49ec-8cdd-504e14218fdb
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg312/layers/3940b048-2c0b-49ec-8cdd-504e14218fdb
+[01-05-2023 16:18:18] Checking 95912fe8-d008-410e-a5b5-0b454a67ad40.png
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprMenuBg312/layers/bae864ed-ea67-4eb6-a67e-f1aa609987db
+[01-05-2023 16:18:18] Checking 95912fe8-d008-410e-a5b5-0b454a67ad40.png
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprPersos
+[01-05-2023 16:18:18] Checking sprPersos.yy
+[01-05-2023 16:18:18] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprPersos/sprPersos.yy
+[01-05-2023 16:18:18] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprPersos/sprPersos.yy
+[01-05-2023 16:18:18] Par: "folders/Sprites" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprPersos/sprPersos.yy"
+[01-05-2023 16:18:18] Found Sprite: sprPersos
+[01-05-2023 16:18:18] Checking layers
+[01-05-2023 16:18:18] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprPersos/layers
+[01-05-2023 16:18:18] Checking abc56788-6112-4e5d-b349-fd3f9e94bc36.png
+[01-05-2023 16:18:18] Checking 68f9138f-8974-4cb8-b705-121923a5844d.png
+[01-05-2023 16:18:18] Checking 32a3fe00-1b76-4443-b5a4-1c78cdc98bf9.png
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprPersos/layers
+[01-05-2023 16:18:18] Checking abc56788-6112-4e5d-b349-fd3f9e94bc36
+[01-05-2023 16:18:18] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprPersos/layers/abc56788-6112-4e5d-b349-fd3f9e94bc36
+[01-05-2023 16:18:18] Checking 68f9138f-8974-4cb8-b705-121923a5844d
+[01-05-2023 16:18:18] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprPersos/layers/68f9138f-8974-4cb8-b705-121923a5844d
+[01-05-2023 16:18:18] Checking 32a3fe00-1b76-4443-b5a4-1c78cdc98bf9
+[01-05-2023 16:18:18] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprPersos/layers/32a3fe00-1b76-4443-b5a4-1c78cdc98bf9
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprPersos/layers/32a3fe00-1b76-4443-b5a4-1c78cdc98bf9
+[01-05-2023 16:18:18] Checking 9839127b-e13d-4fea-9e3e-42ce4f8438f4.png
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprPersos/layers/68f9138f-8974-4cb8-b705-121923a5844d
+[01-05-2023 16:18:18] Checking 9839127b-e13d-4fea-9e3e-42ce4f8438f4.png
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprPersos/layers/abc56788-6112-4e5d-b349-fd3f9e94bc36
+[01-05-2023 16:18:18] Checking 9839127b-e13d-4fea-9e3e-42ce4f8438f4.png
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprTransition
+[01-05-2023 16:18:18] Checking sprTransition.yy
+[01-05-2023 16:18:18] Parsing C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprTransition/sprTransition.yy
+[01-05-2023 16:18:18] Reading C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprTransition/sprTransition.yy
+[01-05-2023 16:18:18] Par: "folders/Sprites" at dir: "C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprTransition/sprTransition.yy"
+[01-05-2023 16:18:18] Found Sprite: sprTransition
+[01-05-2023 16:18:18] Checking layers
+[01-05-2023 16:18:18] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprTransition/layers
+[01-05-2023 16:18:18] Checking 3dd42f5d-b7d2-4de2-8ead-1f405f12407e.png
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprTransition/layers
+[01-05-2023 16:18:18] Checking 3dd42f5d-b7d2-4de2-8ead-1f405f12407e
+[01-05-2023 16:18:18] Directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprTransition/layers/3dd42f5d-b7d2-4de2-8ead-1f405f12407e
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/sprites/sprTransition/layers/3dd42f5d-b7d2-4de2-8ead-1f405f12407e
+[01-05-2023 16:18:18] Checking c0a237fe-4aa7-4c24-b453-e30a62ca6d74.png
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/tilesets
+[01-05-2023 16:18:18] Current parent directory: C:/Users/Usuário/Documents/GameMakerStudio2/&2023/&testes/ritmo_teste/timelines
+[01-05-2023 16:18:18] Moving files to trash...
+[01-05-2023 16:18:19] Files yeeted successfully!
+[01-05-2023 16:18:19] Generating YYP...
+[01-05-2023 16:18:19] ritmo_teste.yyp created successfully!
